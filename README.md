@@ -1,7 +1,6 @@
 ### Hi there 👋
 
  🔭 I’m currently working on system and database administration.
- 
  🌱 I’m currently learning how to create scripts via python, powershell to make daily tasks more efficiently.
 
 
