@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on system and database administration.
+- 🌱 I’m currently learning how to create scripts via python, powershell to make daily tasks more efficiently.
+
+
 <!--
 **VCNTQA/VCNTQA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
